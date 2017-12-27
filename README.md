@@ -42,4 +42,4 @@ If you change anything in the docker compose file, be sure to clear the containe
 
 Suggestions
 ========
-Any suggestions, please find me on twitter @jameselsey1986
+Any suggestions, please find me on twitter [@jameselsey1986](https://twitter.com/jameselsey1986)
